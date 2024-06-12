@@ -6,6 +6,7 @@ from util import classify, set_background
 import tensorflow as tf
 
 # set_background('blk.jpeg')
+print(os.getcwd())
 # set title
 st.title('Diabetic Retinopathy classification')
 # set header
