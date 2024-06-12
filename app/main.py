@@ -6,7 +6,7 @@ from PIL import Image
 from util import classify, set_background
 import tensorflow as tf
 
-# set_background('blk.jpeg')
+set_background('app/blk.jpeg')
 # print(os.getcwd())
 # set title
 st.title('Diabetic Retinopathy classification')
