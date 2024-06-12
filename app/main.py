@@ -35,7 +35,7 @@ model = tf.keras.models.load_model(model_path)
 # model = tf.keras.models.load_model('../pretrained_models/B/model_mobilenet.keras')
 
 # load class names
-with open('model/labels.txt', 'r') as f:
+with open('app/model/labels.txt', 'r') as f:
     class_names = [a[:-1].split(' ')[1] for a in f.readlines()]
     f.close()
 print(class_names)
