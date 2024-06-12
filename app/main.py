@@ -17,7 +17,7 @@ file = st.file_uploader('', type=['jpeg', 'jpg', 'png'])
 # model = tf.keras.models.load_model('/Users/apple/Downloads/SDP/pretrained_models/B/model_weighted_avg.keras', custom_objects=dict(CustomLayer=CustomLayer))
 # model = tf.keras.models.load_model('/Users/apple/Downloads/SDP/pretrained_models/B/model_weighted_avg.keras', custom_objects={ "TransformerEncoderLayer": TransformerEncoderLayer, "PositiionalEmbedding": PositiionalEmbedding, "TransformerDecoder": TransformerDecoder})
 
-model = tf.keras.models.load_model('/Users/apple/Downloads/SDP/pretrained_models/B/model_mobilenet.keras')
+model = tf.keras.models.load_model('../pretrained_models/B/model_mobilenet.keras')
 
 # load class names
 with open('./model/labels.txt', 'r') as f:
