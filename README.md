@@ -79,9 +79,9 @@ of this software and associated documentation
 ## Contributing Members
 
 - [Eebad Reza](https://github.com/eebadreza)
-- [Anuragh Singh](https://github.com/)
-- [Tanmita Roy](https://github.com/)
-- [Namrata Singh]
+- [Anuragh Singh](https://github.com/Anurag21102000)
+- [Tanmita Roy](https://github.com/Tr1120)
+- Namrata Singh
 
 We have completed this project and no further contributions are required at this time. Thank you for your interest.
 
