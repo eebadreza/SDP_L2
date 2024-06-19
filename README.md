@@ -52,7 +52,7 @@ To get started with the project, follow these steps:
  **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/diabetic-retinopathy-detection.git
+   git clone https://github.com/eebadreza/diabetic-retinopathy-detection.git
    ```
 ## System Requirements
 
@@ -66,6 +66,27 @@ The Diabetic Retinopathy Detection App was developed and tested under the follow
   - Python 3.12.3
   - PyCharm (for development)
   - Other dependencies listed in the `requirements.txt` file located in the `app` folder.
+
+## License
+
+This project is licensed under the MIT License. 
+
+MIT License
+Copyright (c) 2024 Eebad Reza
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation
+
+## Contributing Members
+
+- [Eebad Reza](https://github.com/eebadreza)
+- [Anuragh Singh](https://github.com/)
+- [Tanmita Roy](https://github.com/)
+- [Namrata Singh]
+
+We have completed this project and no further contributions are required at this time. Thank you for your interest.
+
+
+
 
 
 
