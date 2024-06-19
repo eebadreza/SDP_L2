@@ -7,6 +7,7 @@ Welcome to the Diabetic Retinopathy Detection App repository. This project is de
 - [About the Project](#about-the-project)
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
+- [System Requirements](#system-requirements)
 - [License](#license)
 - [Contributing Members](#contributing-members)
 
@@ -48,7 +49,23 @@ The `reference` folder includes additional notebooks and testing scripts that pr
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository:**
+ **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/diabetic-retinopathy-detection.git
+   ```
+## System Requirements
+
+The Diabetic Retinopathy Detection App was developed and tested under the following system specifications:
+
+- **Hardware:**
+  - Apple Silicon M1
+  - 8 GB RAM
+
+- **Software:**
+  - Python 3.12.3
+  - PyCharm (for development)
+  - Other dependencies listed in the `requirements.txt` file located in the `app` folder.
+
+
+
